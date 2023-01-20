@@ -1,0 +1,35 @@
+.totals{
+    background-color: white;
+    width: 31%;
+    /* height: 6rem; */
+    padding: 20px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.cart-items{
+    list-style: none;
+
+}
+.button--alt{
+    background-color: burlywood;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+
+}
+.button{
+    background-color: burlywood;
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+.total{
+    font-weight: bold;
+    margin: 10px;
+}

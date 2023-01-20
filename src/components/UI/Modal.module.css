@@ -1,0 +1,11 @@
+.backdrop{
+    background-color: red;
+       /* background-color:darkslategrey; */
+       position: relative;
+       z-index: 100;
+}
+.modal{
+    /* background-color:darkslategrey; */
+    position: relative;
+    z-index: 100;
+}

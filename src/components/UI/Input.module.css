@@ -1,0 +1,12 @@
+.input input {
+    margin: 10px;
+    width: 30px;
+}
+
+.input button{
+    width: 20px;
+}
+.input label{
+    color: rgb(202, 131, 37);
+    font-weight: bold;
+}

@@ -1,0 +1,21 @@
+.meal{
+    border-bottom:1px solid black ;
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding: 10px;
+    text-align: start;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+}
+
+
+.description{
+    margin: 5px 0px;
+    font: bold;
+}
+.price{
+    color: rgb(223, 148, 9);
+    font-weight: bold;
+    
+}

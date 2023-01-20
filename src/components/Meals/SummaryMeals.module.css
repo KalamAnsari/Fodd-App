@@ -1,0 +1,20 @@
+.summary{
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-family: cursive;
+    z-index: 20;
+    border-radius: 10px;
+    margin-top: -100px;
+    height: 10rem;
+    box-shadow: 15px 5px 10px rgb(87, 75, 75);
+    margin-bottom: 10px;
+}
+
+.summary p{
+
+    margin: 10px;
+    font-size: 13px;
+}
